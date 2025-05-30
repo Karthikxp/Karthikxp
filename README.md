@@ -1,7 +1,7 @@
 <h1 align="center">im Karthik </h1>
 <h3 align="center">A humble developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Karthikxp&label=Profile%20views&color=0e75b6&style=flat" alt="Karthikxp" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xxx&label=Profile%20views&color=0e75b6&style=flat" alt="Karthikxp" /> </p>
 
 - 🔱 Im currently working on creating **software solutions for business**
 
