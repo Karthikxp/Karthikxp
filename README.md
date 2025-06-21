@@ -10,7 +10,7 @@ Previously, I created [Blind Assist](https://github.com/Karthikxp/BlindAssist), 
 
 
 [Mail](karthik.manikandanmk@gmail.com) <br />
-[@peduarte on Instagram]([https://ped.ro/twitter/](https://www.instagram.com/_.karthik_._/))
+[@Karthik on Instagram](https://www.instagram.com/_.karthik_._/)
 > Stay curious. Break stuff. Ship weird.
 
 👊
