@@ -8,6 +8,8 @@ Previously, I created [Blind Assist](https://github.com/Karthikxp/BlindAssist), 
 
 ### Find me elsewhere:
 
+[Portfolio ](https://karthk.online)<br />
+
 
 [linkedin ](https://www.linkedin.com/in/karthik-manikandan-6a111825b/) <br />
 [@Karthik on Instagram](https://www.instagram.com/_.karthik_._/)
