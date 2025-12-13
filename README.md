@@ -1,4 +1,4 @@
-Hello, I’m Karthik.
+Hi, I’m Karthik.
 
 I’m a developer, designer, and all-round tech explorer.
 
