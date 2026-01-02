@@ -8,7 +8,7 @@ Previously,created [Blind Assist](https://github.com/Karthikxp/BlindAssist), [Ai
 
 ### Find me elsewhere:
 
-[Portfolio ](https://karthk.online)<br />
+[Portfolio ](https://krthk.vercel.app/)<br />
 
 
 [linkedin ](https://www.linkedin.com/in/karthik-manikandan-6a111825b/) <br />
