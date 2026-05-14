@@ -1,6 +1,6 @@
 Hi, I’m Karthik.
 
-I’m a developer, designer, and all-round tech explorer.
+I’m a developer, designer.
 
 Created [Sidemen](https://github.com/Karthikxp/Sidemen), [APTS](https://github.com/Karthikxp/Ambulance-Prioritized-Traffic-System), [CSAR](https://github.com/Karthikxp/C-SAR), [Blind Assist](https://github.com/Karthikxp/BlindAssist), [AidLink](https://github.com/Karthikxp/AidLink)
 
